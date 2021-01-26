@@ -1,0 +1,20 @@
+.visualContainer {
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+    flex: 5;
+    min-width: 70%;
+    min-height: 60%;
+  }
+  
+  .visualContainer .infoSection {
+    flex: 1;
+    /* text-transform: capitalize; */
+    color: white;
+  }
+  
+  .visualContainer .barSection {
+    display: flex;
+    flex: 3;
+  }
+  
