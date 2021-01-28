@@ -10,3 +10,6 @@ Sorting algorithm visualizer with sound effects generated based on algorithm ope
 
 # Inspiration
 [Sound of sorting](https://panthema.net/2013/sound-of-sorting/)
+
+# Note
+Sometimes audio doesnt work properly in chrome for some reason, works fine in mozilla firefox
